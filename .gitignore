@@ -1,0 +1,12 @@
+target
+bin
+release
+velocity.log
+HarnessEvidenceOutput
+.metadata
+*.plot.properties
+.classpath
+.project
+.svn
+.settings
+generated-hibernate-config.xml
